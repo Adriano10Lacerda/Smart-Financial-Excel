@@ -1,0 +1,15 @@
+# Excel temporários
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# Sistema
+Thumbs.db
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Arquivos temporários
+*.bak
+*.old
